@@ -21,3 +21,9 @@
 
 5. 为生产环境打包，非生产环境不压缩合并代码：
     > fis3 release prod
+
+6. test/目录中的是假数据，原始地址为：
+    > http://127.0.0.1:8080/test/sample.json
+
+   由于改写了规则（见test/server.conf），也可以这样访问：
+    > http://127.0.0.1:8080/api/user

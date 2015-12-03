@@ -1,6 +1,3 @@
-// 配置按需编译：设置编译范围为 html 文件，不过 html 文件中使用到的资源也会参与编译。
-fis.set('project.files', '*.html');
-
 // 由于有project.files，这项暂时不生效。
 // 部署假数据
 fis.match('/test/**', {
