@@ -1,0 +1,6 @@
+{
+    "description": "用fis3搭建的简单多页面打包项目",
+    "dependencies": {
+    "fis3-hook-module": "^1.2.2"
+  }
+}

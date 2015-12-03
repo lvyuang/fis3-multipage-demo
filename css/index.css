@@ -1,0 +1,39 @@
+body {
+    background-color: orange;
+}
+
+.img1 {
+    background-image: url(../images/clip_01.jpg?__sprite);
+}
+
+.img2 {
+    background-image: url(../images/clip_02.jpg?__sprite);
+}
+
+.img3 {
+    background-image: url(../images/clip_03.jpg?__sprite);
+}
+
+.img4 {
+    background-image: url(../images/clip_04.jpg?__sprite);
+}
+
+.img5 {
+    background-image: url(../images/clip_05.jpg?__sprite);
+}
+
+.img6 {
+    background-image: url(../images/clip_06.jpg?__sprite);
+}
+
+.img7 {
+    background-image: url(../images/clip_07.jpg?__sprite);
+}
+
+.img8 {
+    background-image: url(../images/clip_08.jpg?__sprite);
+}
+
+.img9 {
+    background-image: url(../images/clip_09.jpg?__sprite);
+}
